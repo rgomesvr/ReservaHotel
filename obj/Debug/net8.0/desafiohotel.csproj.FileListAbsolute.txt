@@ -1,0 +1,14 @@
+D:\Diretórios do Windows\Downloads\certificados\desafiohotel\bin\Debug\net8.0\desafiohotel.exe
+D:\Diretórios do Windows\Downloads\certificados\desafiohotel\bin\Debug\net8.0\desafiohotel.deps.json
+D:\Diretórios do Windows\Downloads\certificados\desafiohotel\bin\Debug\net8.0\desafiohotel.runtimeconfig.json
+D:\Diretórios do Windows\Downloads\certificados\desafiohotel\bin\Debug\net8.0\desafiohotel.dll
+D:\Diretórios do Windows\Downloads\certificados\desafiohotel\bin\Debug\net8.0\desafiohotel.pdb
+D:\Diretórios do Windows\Downloads\certificados\desafiohotel\obj\Debug\net8.0\desafiohotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diretórios do Windows\Downloads\certificados\desafiohotel\obj\Debug\net8.0\desafiohotel.AssemblyInfoInputs.cache
+D:\Diretórios do Windows\Downloads\certificados\desafiohotel\obj\Debug\net8.0\desafiohotel.AssemblyInfo.cs
+D:\Diretórios do Windows\Downloads\certificados\desafiohotel\obj\Debug\net8.0\desafiohotel.csproj.CoreCompileInputs.cache
+D:\Diretórios do Windows\Downloads\certificados\desafiohotel\obj\Debug\net8.0\desafiohotel.dll
+D:\Diretórios do Windows\Downloads\certificados\desafiohotel\obj\Debug\net8.0\refint\desafiohotel.dll
+D:\Diretórios do Windows\Downloads\certificados\desafiohotel\obj\Debug\net8.0\desafiohotel.pdb
+D:\Diretórios do Windows\Downloads\certificados\desafiohotel\obj\Debug\net8.0\desafiohotel.genruntimeconfig.cache
+D:\Diretórios do Windows\Downloads\certificados\desafiohotel\obj\Debug\net8.0\ref\desafiohotel.dll
